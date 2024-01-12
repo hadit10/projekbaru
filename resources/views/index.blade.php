@@ -17,7 +17,7 @@ table{
 <body>
     <form>
         <table align="center" bgcolor="lightblue" cellspacing="1" cellpadding="5" border="3">
-            <tr><img src="oke.jpg"></tr>
+            <tr><img src="oke.jpg" align="center"></tr>
             <tr>
                 <td rowspan="2">Nomor</td>
                 <td rowspan="2">Nama</td>
